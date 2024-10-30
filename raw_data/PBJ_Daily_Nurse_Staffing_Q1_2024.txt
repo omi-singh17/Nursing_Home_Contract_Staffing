@@ -1,0 +1,3 @@
+Raw Data for 2024 Q1 downloaded from following link:
+
+https://data.cms.gov/quality-of-care/payroll-based-journal-daily-nurse-staffing/data
